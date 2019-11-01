@@ -4,7 +4,7 @@ description: Sitio Web con ofertas de trabajo en CABA. > # this means to ignore 
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 
-url: "https://www.buscotrabajocaba.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.buscotrabajocaba.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 permalink: ':title/'
