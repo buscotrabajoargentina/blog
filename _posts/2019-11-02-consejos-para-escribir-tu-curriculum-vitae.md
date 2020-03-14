@@ -8,12 +8,11 @@ fig-caption: ''
 tags:
 - recomendaciones
 - cv
-
 ---
 Sé breve, conciso y directo. Tu currículum ha de superar el filtro de los 6 segundos y no debe pasar de una o dos hojas, como máximo.
 
 Utiliza un papel de color blanco o de colores claros, en formato A4 y de calidad.
-
+    
 Escribe con una fuente legible y con una presentación espaciada que facilite la lectura.
 
 No lo escribas a mano, a menos que así lo exija la empresa. Es preferible escrito en ordenador que mecanografiado.
