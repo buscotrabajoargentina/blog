@@ -3,7 +3,7 @@ layout: post
 title: Consejos para escribir tu Curriculum Vitae
 date: 2019-11-02 02:00:00 +0000
 description: ''
-img: ''
+img: 'how-to-start.jpg'
 fig-caption: ''
 tags:
 - recomendaciones
