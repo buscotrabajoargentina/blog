@@ -16,7 +16,7 @@ fields:
     display_utc: true
   default: now
 - type: file
-  name: img
+  name: "/"
   label: Imágenes
   description: img
 - type: text
