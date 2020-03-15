@@ -5,21 +5,37 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
 - type: text
   name: title
-  label: title
+  label: Título
 - type: datetime
   name: date
-  label: date
+  label: Fecha
+  config:
+    display_utc: true
+  default: now
 - type: text
   name: description
-  label: description
+  label: 'Descripción '
 - type: file
   name: img
-  label: img
+  label: 'Imagen '
 - type: text
   name: fig-caption
   label: fig-caption
 - type: list
   name: tags
-  label: tags
+  label: Tags
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - cv
+    - recomendaciones
+    - urgente
+    - autodidacta
+    - buenos aires
+    - BA
+    - Baires
