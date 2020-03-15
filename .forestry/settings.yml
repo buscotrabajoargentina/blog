@@ -10,10 +10,10 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
-upload_dir: img
+upload_dir: images
 public_path: ''
-front_matter_path: "/imjemes"
-use_front_matter_path: false
+front_matter_path: img
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
