@@ -3,9 +3,13 @@ layout: post
 date: 2020-03-14 21:21:08 -0300
 title: Vigiladores
 description: taringa
-img: ''
+img: "/assets/img/i-rest.jpg"
 fig-caption: ''
 tags:
+- BA
+- recomendaciones
+- recomendaciones
+- urgente
 - urgente
 
 ---
