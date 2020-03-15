@@ -12,8 +12,8 @@ sections:
   create: all
 upload_dir: images
 public_path: ''
-front_matter_path: img
-use_front_matter_path: true
+front_matter_path: ''
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
