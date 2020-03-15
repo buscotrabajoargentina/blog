@@ -15,7 +15,7 @@ fields:
   name: description
   label: description
 - type: file
-  name: imgas
+  name: img
   label: imge
   default: ''
 - type: text
