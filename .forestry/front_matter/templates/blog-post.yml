@@ -21,7 +21,7 @@ fields:
 - type: file
   name: img
   label: Imagen
-  hidden: true
+  hidden: false
 - type: text
   name: fig-caption
   label: fig-caption
