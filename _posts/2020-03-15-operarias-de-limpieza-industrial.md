@@ -1,13 +1,14 @@
 ---
 layout: post
-date: 2020-03-15 00:31:02 -0300
 title: Operarias de Limpieza Industrial
-img: "/assets/img/we-in-rest.jpg"
-description: taringa
+date: 2020-03-15 09:20:00 -0300
+description: ''
+img: "/assets/img/software.jpg"
 fig-caption: ''
 tags:
-- buenos aires
-- urgente
-- cv
+- taringuero promedio
+- taringuero promedio
+- taringuero promedio
 
 ---
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDEAAgjoI9AVh+TVTuBhZXjShL5iSza5AtYjS1ssh1Xpav2Qsg1WEdRuCADoHA82AhEbeP6WOqWa2cobXWJeMpanviaBcRzL/sg4dwmYPFGtHB59iAug8QK6OtV8RPUVoYZUJLg8GkBKNoKss8BoJSvT9zsupdEeKkkVp/tSDTF5RlOgRfuWXHznDMFYzd7R50k9eAgu15ZUq56FMB3fAqXfIZTgLwBcr2sGIeNh72dGmQZS9eKE1U9rjlqVLchOZh3XhI+3GbZhpZ5sFIkxnxADqFCVeOkN0dfBzKsisL8nrqojREpn5R2mO8o3FtOX0Jx/1ve7iBKLclGuZCrftCVm6p7RAc0hqEUxksK/s2iFHzVccyIOiY1YhvkHhWM2MsfC/xV6nWGxJ2+RUX0TIuZ7Dz5skD8N6cLilTDTf5cyMS+zpDBislhjwsF4BC+RaOR7KG2d8RogfRHF582sQPCIfVn8MHd5RzaV9dfHHfdvwVM+mcRpi+hiXaUE9IzynAfSiMBSBixk30j0bFHNRexXrpOIabmL8canMMRCsX3D9fPaypz2noR3zWMnnTXjgMHtf2PMfTN/TXSoVIY8e36kBZZao/YzphbSkBfQovjCOE+PM3IVqn+Duu1KeWJeTeHUIvbzjVuHkcSEKNHgwFkKNJ6DDqx7p0F1rGvYxTs6Q==
