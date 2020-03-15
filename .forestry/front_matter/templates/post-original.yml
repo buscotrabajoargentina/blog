@@ -15,9 +15,9 @@ fields:
   name: description
   label: description
 - type: file
-  name: img
-  label: img
-  default: "/assets/img/mac.jpg"
+  name: imgas
+  label: imge
+  default: ''
 - type: text
   name: fig-caption
   label: fig-caption
