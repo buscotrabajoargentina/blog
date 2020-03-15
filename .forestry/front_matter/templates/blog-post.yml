@@ -15,11 +15,9 @@ fields:
   config:
     display_utc: true
   default: now
-- name: img
-  type: file
-  config:
-    maxSize: 250
-  label: Imagen
+- type: file
+  name: img
+  label: Imágenes
 - type: text
   name: description
   label: 'Descripción '
