@@ -23,6 +23,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- _posts/asdfafsdaf.md
-- _posts/cajero-1.md
