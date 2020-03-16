@@ -1,25 +1,31 @@
 ---
 layout: post
-title: Introducción al blog.
+title: 'GUÍA: ¿Cómo hacer un buen Currículum Vítae?'
 date: 2020-03-16 13:00:00 -0300
 description: Busco Trabajo CABA blog
 img: ''
 fig-caption: ''
 tags:
-- consejos
 - tips
+- consejos
+- currículum vítae
 - blog
-- introducción
 
 ---
-**Busco Trabajo CABA** es un sitio web dedicado a publicar avisos de empresas que requieren empleados y a su vez, actuar como intermediarios con nuestros usuarios, con el fin de resolver las necesidades en ambos casos. Tanto de la empresa que desea contratar, como la de las personas que requieren empleo.
+**El currículum vítae** no es solo un papel con nuestros datos personales. Es nuestra principal **"herramienta"** a la hora de conseguir empleo y solamente los **C.V** que logren captar la atención de nuestros empleadores pasarán a la segunda etapa de selección. La entrevista.
 
-(Habiendo explicado esto, aclaramos nuevamente. Nosotros no ofrecemos empleo ni entregamos sus currículum a estas empresas, simplemente publicamos los anuncios).
+Por eso es importante prestar atención a los detalles al redactar nuestro currículum, ya que esa sera nuestra carta de presentación definitiva.
 
-Buscando además brindar contenido de mayor calidad creamos esta nueva sección de **"blog"** para abordar temas relacionados a la ardua y a veces frustrante tarea de encontrar empleo.
+Si se trata de tu primer currículum vítae, osea no contás con experiencia laboral o sos estudiante tenes que destacar si es posible promedios altos, postgrados, becas y todo lo que consideres importante en cuanto a estudios refiere.
 
-Tendencias sobre los trabajos más demandados, guías para redactar tu currículum vítae, tips para presentarte a tus entrevistas de trabajo y demás contenido que te recomendamos leer para facilitar tu búsqueda.
+Si en cambio sos un joven profesional sin estudios universitarios, tenes que plantearte desarrollar una presentación sobre aquellos datos que permitan dar cuenta que se tiene conocimiento sobre el puesto al que se desea aplicar (cursos, capacitaciones y experiencias laborales en puestos similares si las tuviste).
 
-Saludos y bienvenidos!
+Por otra parte si sos una persona profesional que ya cuenta con algo más de experiencia laboral, recomandamos redactar en orden tus datos personales primero (en la cabacera del cv).
 
-**Atte: El equipo de BuscoTrabajoCABA.**
+Nombre y Apellido, Dirección, Teléfono y Email (que te recomendamos crear si todavía no tenes uno y revisalo con frecuencia).
+
+También es de vital importancia cuidar tu ortografía al redactar, procurá respetar mayúsculas, acentúar bien las palabras y hacer un uso correcto de puntos y comas.
+
+Ser breve y conciso ya que a tu empleador o reclutador no le interesa realmente saber si contas con conocimientos en construcción para aplicar a su empleo de atención al público.
+
+Por último es bueno que adjuntes en tu currículum una foto tuya de tipo carnet lo más presentable posible, con todo esto te podes asegurar de dejar bien presentada tu imágen profesional para pasar a tu siguiente prueba, la entrevista personal.
