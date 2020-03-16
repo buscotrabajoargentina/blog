@@ -24,3 +24,6 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- _posts/introducción-al-blog-1.md
+- _posts/introducción-al-blog.md
