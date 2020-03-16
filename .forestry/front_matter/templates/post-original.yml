@@ -24,5 +24,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- _posts/operarias-de-limpieza-industrial88.md
