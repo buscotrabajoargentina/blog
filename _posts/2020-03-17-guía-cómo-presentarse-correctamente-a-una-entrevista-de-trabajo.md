@@ -3,9 +3,13 @@ layout: post
 title: 'GUÍA: ¿Cómo presentarse correctamente a una entrevista de trabajo?'
 date: 2020-03-17 13:46:00 -0300
 description: Busco Trabajo CABA blog
-img: ''
+img: "/entrevista.jpg"
 fig-caption: ''
-tags: []
+tags:
+- blog
+- entrevista
+- tips
+- consejos
 
 ---
 **GUÍA: ¿Cómo presentarse correctamente a una entrevista de trabajo?**
