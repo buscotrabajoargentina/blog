@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Introducción al blog.
-date: 2020-03-16 13:40:00 -0300
+date: 2020-03-16T16:40:00.000+00:00
 description: Busco Trabajo CABA blog
-img: "/slider-posteo-1.png"
+img: "/media/intro.jpg"
 fig-caption: ''
 tags:
 - introducción
