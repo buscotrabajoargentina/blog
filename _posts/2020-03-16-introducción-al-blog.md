@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'GUÍA: ¿Cómo hacer un buen Currículum Vítae?'
-date: 2020-03-16 13:00:00 -0300
+date: 2020-03-16T16:00:00.000+00:00
 description: Busco Trabajo CABA blog
-img: "/posteo-2.png"
+img: "/currículum.jpg"
 fig-caption: ''
 tags:
 - tips
