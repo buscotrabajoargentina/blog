@@ -5,7 +5,11 @@ date: 2020-03-23 21:15:00 -0300
 description: ''
 img: "/coronavirus.jpg"
 fig-caption: ''
-tags: []
+tags:
+- Quedate en casa
+- Blog
+- Tips
+- Coronavirus
 
 ---
 **En estos tiempos tan complicados, queremos hacerte saber que estamos acá para ayudarte en todo lo que podamos y para eso es este artículo.**
