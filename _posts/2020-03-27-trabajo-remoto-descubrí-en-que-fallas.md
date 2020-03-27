@@ -18,8 +18,6 @@ tags:
 
 En **BuscoTrabajoCABA** nos dimos a la tarea de recopilar los consejos y tips más útiles para ayudarte a ser más productivo y no caer en la procrastinación por estar en la comodidad de casa.
 
-![](/office-932926_1920.jpg)
-
 #### **Vestite!**
 
 El primer punto es vestirnos, hay que alistarse y prepararse como si fuese un día común de oficina, el quedarnos en pijama puede ser tentador para muchos. Pero es cierto que bañarse, vestirse semi formal, preparará nuestro estado mental, nuestra predisposición a realizar las tareas como si se tratase de un día corriente. Además, hay que estar preparados para las video llamadas.
