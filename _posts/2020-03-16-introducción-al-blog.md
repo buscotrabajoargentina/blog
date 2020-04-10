@@ -16,7 +16,7 @@ tags:
 
 Por eso es importante prestar atención a los detalles al redactar nuestro currículum, ya que esa sera nuestra carta de presentación definitiva.
 
-![prueba](/slider-3.jpg "img")
+![prueba](/slider-3.jpg)
 
 Si se trata de tu primer currículum vítae, osea no contás con experiencia laboral o sos estudiante tenes que destacar si es posible promedios altos, postgrados, becas y todo lo que consideres importante en cuanto a estudios refiere.
 
